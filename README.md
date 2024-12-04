@@ -12,7 +12,7 @@ You play as the white player, and black is controlled by a simple chess AI (impl
 
 ## Demo
 
-You can play here: [ReactJS Chess](https://teay2026.github.io/Chess-AI/).
+You can play here: [Chess AI](https://teay2026.github.io/Chess-AI/).
 
 ![](/preview.png)
 
