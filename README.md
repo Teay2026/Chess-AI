@@ -1,6 +1,6 @@
 # Chess-AI
 
-This is a web chess game coded in React. 
+This is a web chess game against AI coded in React. 
 
 ## How to Play
 
